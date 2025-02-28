@@ -1,6 +1,6 @@
 # Hi, I'm Le Duc Manh(Mykulle)👋
 
-I'm a **DevOps** and **Cloud Infrastructure** enthusiast with a passion for **automation**, **containerization**, and **system design**. Currently pursuing a degree in **Computer Science** at [Your University], I specialize in building scalable cloud systems and automating deployment pipelines.
+I'm a **DevOps** and **Cloud Infrastructure** enthusiast with a passion for **automation**, **containerization**, and **system design**. Currently pursuing a degree in **Computer Science** at **Nanyang Technological University(NTU)**, I specialize in building scalable cloud systems and automating deployment pipelines.
 
 ### 🚀 What I'm Working On
 - Automating cloud infrastructure with **AWS**, **Terraform**, and **Docker**.
